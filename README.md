@@ -73,8 +73,20 @@ sales, inventory, purchasing, and daily operations.
 - Improving application usability and code quality.
 - Learning how to integrate AI into useful digital solutions.
 
-## Let's Connect
+## Services & Availability
 
-Interested in collaborating on a web, mobile, or AI-powered project?
+Available for freelance projects and collaborations in:
 
-Find me here on [GitHub](https://github.com/reggiemsofe23).
+- Business websites and web applications.
+- Flutter mobile application development.
+- Laravel backend development.
+- Application maintenance, improvements, and updates.
+- Google Play release preparation and deployment.
+
+## Contact
+
+Have a project in mind? Let's discuss your requirements.
+
+- Email: regnaldtendo23@gmail.com
+- WhatsApp: https://wa.me/255 776 769 852
+- LinkedIn: https://www.linkedin.com/in/regnald-titus-8a9626372/
