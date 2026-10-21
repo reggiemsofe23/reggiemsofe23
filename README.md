@@ -47,6 +47,15 @@ AI services, and other digital solutions.
 
 [View Project](https://github.com/reggiemsofe23/africantrust-technologies-showcase)
 
+### Sepesha — Ride-Hailing Mobile Application
+
+Contributed to application maintenance, improvements,
+updates, and release deployment to Google Play.
+
+**Technologies:** Flutter and Dart.
+
+[View Showcase](https://github.com/reggiemsofe23/sepesha-showcase) ·
+[Google Play](https://play.google.com/store/apps/details?id=com.sepesha.driver)
 
 ## Current Focus
 
