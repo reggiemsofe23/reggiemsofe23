@@ -23,6 +23,31 @@ to turn ideas into functional digital products.
 | Mobile Development | Dart, Flutter, Java, Android Studio |
 | Other Languages | C, C++ |
 
+
+## Featured Projects
+
+### Africantrust Safari
+
+A Tanzania tourism website showcasing safari packages,
+destinations, and travel experiences.
+
+**Built with:** PHP, HTML, CSS, JavaScript, and JSON.
+
+[Visit Website](https://www.africantrustsafari.com/) ·
+[View Project](https://github.com/reggiemsofe23/africantrust-safari-showcase)
+
+### Africantrust Technologies
+
+A technology company website presenting web development,
+AI services, and other digital solutions.
+
+**Built with:** PHP, HTML, CSS, JavaScript, and JSON.
+
+**Status:** Under development — not yet publicly hosted.
+
+[View Project](https://github.com/reggiemsofe23/africantrust-technologies-showcase)
+
+
 ## Current Focus
 
 - Building practical web and mobile products.
