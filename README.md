@@ -88,5 +88,5 @@ Available for freelance projects and collaborations in:
 Have a project in mind? Let's discuss your requirements.
 
 - Email: regnaldtendo23@gmail.com
-- WhatsApp: https://wa.me/255 776 769 852
+- WhatsApp: https://wa.me/255776769852
 - LinkedIn: https://www.linkedin.com/in/regnald-titus-8a9626372/
